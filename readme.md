@@ -1,6 +1,6 @@
-# [Virtual Art Gallery](https://thr2240.github.io/virtual-art-gallery/build) [![Build Status](https://travis-ci.com/thr2240/virtual-art-gallery.svg?branch=master)](https://travis-ci.com/github/thr2240/virtual-art-gallery)
+# [Virtual Art Gallery](https://clementcariou.github.io/virtual-art-gallery/build) [![Build Status](https://travis-ci.com/ClementCariou/virtual-art-gallery.svg?branch=master)](https://travis-ci.com/github/ClementCariou/virtual-art-gallery)
 
-[![screenshot](ArtGallery.png "App screenshot")](https://thr2240.github.io/virtual-art-gallery/build)
+[![screenshot](ArtGallery.png "App screenshot")](https://clementcariou.github.io/virtual-art-gallery/build)
 
 ## Description
 
@@ -26,6 +26,6 @@ Build :
 npm build
 ```
 
-## Using it with [local images](https://thr2240.github.io/virtual-art-gallery/build?api=local)
+## Using it with [local images](https://clementcariou.github.io/virtual-art-gallery/build?api=local)
 
 The local api is accessible using this URI params in the address bar: ```?api=local``` (it's possible to load automatically this API by changing the default API in the [api.js](api/api.js) file). You can change the displayed images in the folder [images](images), you will need to rebuild the project (or relauch the dev server) to apply the modifications.
